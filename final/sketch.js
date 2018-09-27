@@ -16,7 +16,7 @@ function preload(){
 //sound file for when smake eats food
     soundFormats('mp3', 'ogg');
 munch = loadSound('assets/munch.mp3');
-//sound file for background music
+//sound file for background music, Operatic_3 from YouTube Library
 soundFormats('mp3', 'ogg');
 music= loadSound('assets/music.mp3');
 // load 'food' object
